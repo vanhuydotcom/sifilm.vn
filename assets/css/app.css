@@ -4457,7 +4457,7 @@ html {
       margin-right: 30px;
     }
     body.touch .carousel .carousel__image {
-      height: 40vh;
+      height: 33vh;
       min-height: 200px;
     }
   }
