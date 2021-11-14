@@ -1,18 +1,6 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
-/expertise
-/inquiry
-/journal
-/works
-/awards.html
-/brands.html
-/careers.html
-/expertise.html
-/id.html
-/sg.html
-/inquiry.html
-/journal.html
-/works.html
+
 # dependencies
 # /node_modules
 # /.pnp
