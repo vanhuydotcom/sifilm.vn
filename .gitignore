@@ -11,7 +11,19 @@
 
 # production
 # /build
-
+/expertise
+/inquiry
+/journal
+/work
+/work.html
+/sitemap.html
+/sg.html
+/journal.html
+/inquiry.html
+/id.html
+/careers.html
+/brands.html
+/awards.html
 # misc
 .DS_Store
 .env
