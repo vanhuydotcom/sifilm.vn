@@ -3096,6 +3096,7 @@ html {
     max-height: 500px;
   }
   .work_images.long .half_image .background-image {
+    filter: grayscale(1);
     top: -20%;
     left: -5%;
     width: 120%;
